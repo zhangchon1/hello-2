@@ -1,4 +1,3 @@
 # hello-2
-# one
-# two
-# three
+
+Today is Thursday!
